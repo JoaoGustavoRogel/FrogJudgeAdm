@@ -5,6 +5,8 @@
  */
 package GUI;
 
+import GUI.usr.UsrHomeGUI;
+import GUI.adm.AdmHomeGUI;
 import Classes.Administrador;
 import Classes.Login;
 import Classes.Usuario;
